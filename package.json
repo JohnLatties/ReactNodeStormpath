@@ -1,0 +1,24 @@
+{
+  "name": "ReactNodeStormpath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnLatties/ReactNodeStormpath.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnLatties/ReactNodeStormpath/issues"
+  },
+  "homepage": "https://github.com/JohnLatties/ReactNodeStormpath#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-stormpath": "^2.3.7"
+  }
+}
