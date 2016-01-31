@@ -19,6 +19,10 @@
   "homepage": "https://github.com/JohnLatties/ReactNodeStormpath#readme",
   "dependencies": {
     "express": "^4.13.4",
-    "express-stormpath": "^2.3.7"
+    "express-stormpath": "^2.3.7",
+    "webpack": "^2.0.6-beta"
+  },
+  "devDependencies": {
+    "webpack-dev-middleware": "^1.5.1"
   }
 }
