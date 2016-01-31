@@ -1,6 +1,6 @@
 client:
   apiKey:
-    id: 2CWZPZLLOGYNCE6IJ6RBAR80T
-    secret: hx3smGfMs00PmbzN8DFc5rGA/zm4UszfDhjr1rlKuKU
+    id: YOUR_API_KEY_ID
+    secret: YOUR_API_KEY_SECRET
 application:
-  href: https://api.stormpath.com/v1/applications/5opFr2CqDrrFSYgtdYrAD3
+  href: https://api.stormpath.com/v1/applications/XXXX <-- YOUR APP HREF
