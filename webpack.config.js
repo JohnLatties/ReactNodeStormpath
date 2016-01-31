@@ -1,9 +1,10 @@
 var path = require('path');
 var webpack = require('webpack');
 
+
 module.exports = {
   entry: [
-     './src/app' 
+     './src/app'
   ] ,
   devtool: 'eval-source-map',
   output: {
