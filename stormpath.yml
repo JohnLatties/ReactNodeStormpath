@@ -2,5 +2,5 @@ client:
     apikey:
     id: YOUR_API_KEY_ID
     secret: YOUR_API_KEY_SECRET
-aplication:
+application:
     href: https://api.stormpath.com/v1/applications/XXXX <-- YOUR APP HREF
