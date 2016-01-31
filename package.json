@@ -1,4 +1,3 @@
-
 {
   "name": "ReactNodeStormpath",
   "version": "1.0.0",
@@ -19,6 +18,13 @@
   },
   "homepage": "https://github.com/JohnLatties/ReactNodeStormpath#readme",
   "dependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-plugin-react-transform": "^2.0.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "babel-runtime": "^6.3.19",
     "express": "^4.13.4",
     "express-stormpath": "^2.3.7",
     "webpack": "^2.0.6-beta"
